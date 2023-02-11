@@ -5,7 +5,10 @@ module.exports = {
       label: "General",
       items: [
         "general/getting-started",
+        "general/claims",
+        "general/redenomination",
         "general/research",
+        "general/ens",
         "general/wallets",
         "general/ledger",
         {
@@ -67,17 +70,9 @@ module.exports = {
               items: [
                 "learn/learn-assets",
                 "learn/learn-DOT",
-                "learn/learn-redenomination",
+                "learn/learn-nft",
                 "learn/learn-statemint",
                 "learn/learn-teleport",
-              ],
-            },
-            {
-              type: "category",
-              label: "NFTs",
-              items: [
-                "learn/learn-nft",
-                "learn/learn-nft-pallets",
               ],
             },
             {
