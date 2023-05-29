@@ -106,12 +106,12 @@ The following steps outline how to delegate voting power in OpenGov through Polk
    `apply delegation to all tracks`)
 5. Specify the `delegate vote value`, which is the amount of DOT or KSM you wish to provide the
    delegate with
-6. Provide a `conviction` multiplier determining how long the funds from the previous step are locked
-   (for additional details see the section on [Voluntary Locking](#voluntary-locking)) and click
-   `Next`
+6. Provide a `conviction` multiplier determining how long the funds from the previous step are
+   locked (for additional details see the section on [Voluntary Locking](#voluntary-locking)) and
+   click `Next`
 7. The final step is to provide the account address that will be the delegate for the original
-   account provided (this account will be receiving the voting power for the source account on
-   the specified track)
+   account provided (this account will be receiving the voting power for the source account on the
+   specified track)
 
 ![Delegate](./../assets/governance/Delegate-Kusama.png)
 
